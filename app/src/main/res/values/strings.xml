@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_Practical3</string>
+    <string name="box_one">Box One</string>
+    <string name="box_three">\@string/box_three</string>
+</resources>
